@@ -27,8 +27,8 @@ B = \begin{bmatrix}
 ---
 
 # Induction and recursion
-slides are based on
-[www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf](www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
+Slides are based on
+[Notes by James Aspnes](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
 
 ---  
 
